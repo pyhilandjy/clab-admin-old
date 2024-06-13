@@ -1,4 +1,4 @@
-# [Backend Readme](https://github.com/pyhilandjy/Clab-api/blob/main/README.md)
+# [Backend](https://github.com/pyhilandjy/Clab-api)
 
 # Frontend
 
